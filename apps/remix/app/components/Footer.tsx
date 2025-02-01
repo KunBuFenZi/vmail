@@ -15,7 +15,7 @@ export default function Footer() {
         © 2024 Products of{" "}
         <Link
           className="font-semibold underline hover:text-gray-600"
-          to="https://www.oiov.dev"
+          to="https://www.cpu.red"
           target="_blank">
           oiov
         </Link>
